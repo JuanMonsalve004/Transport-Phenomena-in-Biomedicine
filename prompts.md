@@ -4,3 +4,5 @@ plot. Also create requirements.txt listing numpy, matplotlib and opencv-python. 
 interpreter; do not install packages or change unrelated files.
 
 add point markers
+
+delete the png and in the same document create a video of a square that has a dot inside in a random site and moves in right lines. when it encounters a walls it bounces and continue moving
